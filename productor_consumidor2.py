@@ -73,5 +73,3 @@ signal.signal(signal.SIGINT, signal_handler)
 #para matar el proceso
 #input("presione enter para matar el proceso")
 #dead=True
-
-#ruta para ejecutar el script C:\Users\Usuario\Documents\utils\USB\1.t\itm\3er semestre\Sistemas Operativos
